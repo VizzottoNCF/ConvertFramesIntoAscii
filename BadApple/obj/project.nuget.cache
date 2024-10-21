@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JSb4I9f7d95cMUphxeKai+BlK+k2t4RheH1xgrOBzB5zYU4Xphppm0RQgxSxFxRdDhLZQ/yWqbgUUlMLIhtSkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\T-GAMER\\source\\repos\\BadApple\\BadApple\\BadApple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
